@@ -63,6 +63,21 @@ Selected LR (91.7%, AUC=0.911) over XGBoost after a 1,000-sample bootstrap test 
 
 ---
 
+### [Zero-Shot Evaluation of MedGemma-4B on Chest X-Ray Classification](https://github.com/vidhi3839/medgemma-chest-xray-evaluation)
+`Medical AI` `HuggingFace` `PyTorch` `Zero-Shot` `Clinical Evaluation`
+
+Independent research evaluating Google's MedGemma-4B on 500 chest X-rays without any
+fine-tuning. Found a systematic sensitivity gap: 100% specificity but only 12.4% sensitivity
+for pneumonia — the model defaults to negative findings out of the box. Built the full
+evaluation pipeline independently: dataset prep, model loading, confusion matrix analysis,
+results visualisation on T4 GPU. Findings connect directly to limitations noted in the
+Med-Gemini paper (Saab et al., 2024).
+
+Next directions: few-shot prompting, LoRA fine-tuning, cross-modality testing on
+MedGemma 1.5's CT/MRI capabilities (released Jan 2026).
+
+---
+
 ## Experience
 
 **Data Science Intern** — Elecon Engineering (IT & Consulting Division), Jan–Jul 2025  
