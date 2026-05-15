@@ -99,8 +99,8 @@ SQL on 50–80K rows of delivery data. Surfaced quarter-end delay spikes (months
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true&langs_count=6" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vidhi3839&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidhi3839&layout=compact&theme=default&hide_border=true&langs_count=6" height="165" />
 </p>
 
 <picture>
