@@ -96,23 +96,6 @@ SQL on 50–80K rows of delivery data. Surfaced quarter-end delay spikes (months
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vidhi3839&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidhi3839&layout=compact&theme=default&hide_border=true&langs_count=6" height="165" />
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/vidhi3839/vidhi3839/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/vidhi3839/vidhi3839/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/vidhi3839/vidhi3839/output/github-snake.svg" />
-</picture>
-
----
-
 <p align="center">
   <a href="https://www.linkedin.com/in/vidhipatel2174/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:patel.vidhim@northeastern.edu">Email</a> &nbsp;·&nbsp;
