@@ -4,9 +4,8 @@
   MS Data Science · Northeastern University, Boston &nbsp;|&nbsp; ML / NLP / Decision Intelligence
 </p>
 <p align="center">
-  <a href="https://linkedin.com/in/vidhipatel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vidhipatel2174/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:patel.vidhim@northeastern.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://kaggle.com/vidhipatel"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>
 </p>
 
 <!-- Stack badges -->
@@ -15,10 +14,9 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-Advanced-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
 ---
@@ -94,17 +92,16 @@ SQL on 50–80K rows of delivery data. Surfaced quarter-end delay spikes (months
 <!--
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
+    srcset="https://raw.githubusercontent.com/vidhi3839/vidhi3839/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+    srcset="https://raw.githubusercontent.com/vidhi3839/vidhi3839/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/vidhi3839/vidhi3839/output/github-snake.svg" />
 </picture>
 -->
 
 ---
 
 <p align="center">
-  <a href="https://linkedin.com/in/vidhipatel">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/vidhipatel2174/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:patel.vidhim@northeastern.edu">Email</a> &nbsp;·&nbsp;
-  <a href="https://kaggle.com/vidhipatel">Kaggle</a>
 </p>
