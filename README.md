@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center">Vidhi Patel</h1>
 <p align="center">
-  MS Data Science · Northeastern University, Boston &nbsp;|&nbsp; ML / NLP / Decision Intelligence
+  MS Data Science · Northeastern University, Boston &nbsp;|&nbsp; Machine learning / NLP / Decision Intelligence
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/vidhipatel2174/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
@@ -103,8 +103,6 @@ SQL on 50–80K rows of delivery data. Surfaced quarter-end delay spikes (months
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true&langs_count=6" height="165" />
 </p>
 
-<!-- Contribution snake — uncomment after setting up the GitHub Action (see SETUP.md) -->
-<!--
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/vidhi3839/vidhi3839/output/github-snake-dark.svg" />
@@ -112,7 +110,6 @@ SQL on 50–80K rows of delivery data. Surfaced quarter-end delay spikes (months
     srcset="https://raw.githubusercontent.com/vidhi3839/vidhi3839/output/github-snake.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/vidhi3839/vidhi3839/output/github-snake.svg" />
 </picture>
--->
 
 ---
 
