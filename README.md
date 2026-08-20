@@ -97,19 +97,6 @@ Built an end-to-end application using **Flask, React, and Gemini API** for autom
 
 ## Experience
 
-### Data Science Intern — Quad4Cloud
-
-**Customer Analytics · Experimentation · Machine Learning · Business Intelligence**
-
-- Queried and analyzed **250K+ Salesforce CRM records using SQL** to identify customer engagement, retention, and customer health trends, transforming large-scale CRM data into actionable insights for Customer Success, Sales, and Product stakeholders.
-
-- Designed and analyzed **5+ A/B experiments** using statistical hypothesis testing to evaluate customer engagement initiatives, measure differences between treatment groups, and support data-driven decisions around customer retention and campaign effectiveness.
-
-- Developed a **Random Forest churn prediction model achieving 0.87 ROC-AUC** by engineering customer-level behavioral and engagement features, enabling identification of high-risk customers and supporting targeted retention strategies.
-
-- Segmented **40K customers using K-Means clustering** based on behavioral and lifetime value features, identifying distinct customer groups and translating segmentation results into actionable recommendations for customer engagement and retention.
-
-- Built **6 Power BI dashboards** monitoring customer health, churn risk, and campaign performance, collaborating with cross-functional stakeholders to define KPIs and communicate analytical findings through decision-oriented visualizations.
 
 ---
 
